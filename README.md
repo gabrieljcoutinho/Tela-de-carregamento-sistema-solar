@@ -32,4 +32,6 @@ A animação utiliza propriedades físicas simuladas para criar um efeito realis
 | **Planetas** | `transform: rotate()` | Controla a progressão do tempo. |
 | **Espaço** | Parallax Background | Cria profundidade conforme o mouse se move. |
 
+
+
 <img width="422" height="365" alt="image" src="https://github.com/user-attachments/assets/6b2e2dff-4a87-4195-aa2a-1378b810c738" />
